@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Mina-Portfolio/static/css/main.7d9ad443.css",
-    "main.js": "/Mina-Portfolio/static/js/main.11d17647.js",
+    "main.css": "/Mina-Portfolio/static/css/main.88ef0463.css",
+    "main.js": "/Mina-Portfolio/static/js/main.f840688d.js",
     "static/js/453.a8e45fc7.chunk.js": "/Mina-Portfolio/static/js/453.a8e45fc7.chunk.js",
     "static/media/Screenshot (1).png": "/Mina-Portfolio/static/media/Screenshot (1).9c7dfb73ff725283bdc6.png",
     "static/media/Screenshot (49).png": "/Mina-Portfolio/static/media/Screenshot (49).99b6a641576f7b515da2.png",
@@ -100,12 +100,12 @@
     "static/media/slick.ttf": "/Mina-Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Mina-Portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Mina-Portfolio/index.html",
-    "main.7d9ad443.css.map": "/Mina-Portfolio/static/css/main.7d9ad443.css.map",
-    "main.11d17647.js.map": "/Mina-Portfolio/static/js/main.11d17647.js.map",
+    "main.88ef0463.css.map": "/Mina-Portfolio/static/css/main.88ef0463.css.map",
+    "main.f840688d.js.map": "/Mina-Portfolio/static/js/main.f840688d.js.map",
     "453.a8e45fc7.chunk.js.map": "/Mina-Portfolio/static/js/453.a8e45fc7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d9ad443.css",
-    "static/js/main.11d17647.js"
+    "static/css/main.88ef0463.css",
+    "static/js/main.f840688d.js"
   ]
 }
