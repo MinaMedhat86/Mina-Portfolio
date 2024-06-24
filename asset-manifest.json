@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Mina-Portfolio/static/css/main.88ef0463.css",
-    "main.js": "/Mina-Portfolio/static/js/main.f840688d.js",
+    "main.css": "/Mina-Portfolio/static/css/main.f43e6476.css",
+    "main.js": "/Mina-Portfolio/static/js/main.336717b6.js",
     "static/js/453.a8e45fc7.chunk.js": "/Mina-Portfolio/static/js/453.a8e45fc7.chunk.js",
     "static/media/Screenshot (1).png": "/Mina-Portfolio/static/media/Screenshot (1).9c7dfb73ff725283bdc6.png",
     "static/media/Screenshot (49).png": "/Mina-Portfolio/static/media/Screenshot (49).99b6a641576f7b515da2.png",
@@ -22,7 +22,9 @@
     "static/media/Screenshot (14).png": "/Mina-Portfolio/static/media/Screenshot (14).ad09682ee2b70195bacc.png",
     "static/media/Screenshot (11).png": "/Mina-Portfolio/static/media/Screenshot (11).3756d14d716c9aaf95eb.png",
     "static/media/Screenshot (67).png": "/Mina-Portfolio/static/media/Screenshot (67).c1258b17a71f12468840.png",
+    "static/media/Screenshot (121).png": "/Mina-Portfolio/static/media/Screenshot (121).ad717f32a508224afb54.png",
     "static/media/Screenshot (6).png": "/Mina-Portfolio/static/media/Screenshot (6).ebe69ee6694228fc6635.png",
+    "static/media/Screenshot (119).png": "/Mina-Portfolio/static/media/Screenshot (119).35ee9ac04e151bd49e86.png",
     "static/media/Screenshot (24).png": "/Mina-Portfolio/static/media/Screenshot (24).9f10156b556bec36c7b3.png",
     "static/media/Screenshot (23).png": "/Mina-Portfolio/static/media/Screenshot (23).bfb9eaf3a6d2d9d41a2e.png",
     "static/media/Screenshot (21).png": "/Mina-Portfolio/static/media/Screenshot (21).f5ecbeb3973af8c57804.png",
@@ -32,8 +34,10 @@
     "static/media/Screenshot (2).png": "/Mina-Portfolio/static/media/Screenshot (2).ee81781225f32d56bb3f.png",
     "static/media/Screenshot (12).png": "/Mina-Portfolio/static/media/Screenshot (12).4d5327adfe5b66891385.png",
     "static/media/Screenshot (63).png": "/Mina-Portfolio/static/media/Screenshot (63).ada1cc4ffe6288abbf85.png",
+    "static/media/Screenshot (122).png": "/Mina-Portfolio/static/media/Screenshot (122).8115ba98ddf4102b60d5.png",
     "static/media/Screenshot (22).png": "/Mina-Portfolio/static/media/Screenshot (22).7adca7af8cd2a8878607.png",
     "static/media/Screenshot (8).png": "/Mina-Portfolio/static/media/Screenshot (8).9c0fdf045e2a691837d1.png",
+    "static/media/Screenshot (120).png": "/Mina-Portfolio/static/media/Screenshot (120).14a1cd18398aed01677b.png",
     "static/media/Screenshot (61).png": "/Mina-Portfolio/static/media/Screenshot (61).6513c68b01445242a17d.png",
     "static/media/Screenshot (62).png": "/Mina-Portfolio/static/media/Screenshot (62).d5e07d68537573f139de.png",
     "static/media/Screenshot (66).png": "/Mina-Portfolio/static/media/Screenshot (66).fda8844e2a26ef8442ea.png",
@@ -100,12 +104,12 @@
     "static/media/slick.ttf": "/Mina-Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Mina-Portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Mina-Portfolio/index.html",
-    "main.88ef0463.css.map": "/Mina-Portfolio/static/css/main.88ef0463.css.map",
-    "main.f840688d.js.map": "/Mina-Portfolio/static/js/main.f840688d.js.map",
+    "main.f43e6476.css.map": "/Mina-Portfolio/static/css/main.f43e6476.css.map",
+    "main.336717b6.js.map": "/Mina-Portfolio/static/js/main.336717b6.js.map",
     "453.a8e45fc7.chunk.js.map": "/Mina-Portfolio/static/js/453.a8e45fc7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.88ef0463.css",
-    "static/js/main.f840688d.js"
+    "static/css/main.f43e6476.css",
+    "static/js/main.336717b6.js"
   ]
 }
