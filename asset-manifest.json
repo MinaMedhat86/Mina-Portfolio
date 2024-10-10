@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Mina-Portfolio/static/css/main.8943d0c5.css",
-    "main.js": "/Mina-Portfolio/static/js/main.bebc8367.js",
+    "main.js": "/Mina-Portfolio/static/js/main.d0c426dd.js",
     "static/js/453.a8e45fc7.chunk.js": "/Mina-Portfolio/static/js/453.a8e45fc7.chunk.js",
     "static/media/Screenshot (1).png": "/Mina-Portfolio/static/media/Screenshot (1).9c7dfb73ff725283bdc6.png",
     "static/media/Screenshot (49).png": "/Mina-Portfolio/static/media/Screenshot (49).99b6a641576f7b515da2.png",
@@ -16,12 +16,15 @@
     "static/media/Screenshot (37).png": "/Mina-Portfolio/static/media/Screenshot (37).bceb4d44fb269a65856e.png",
     "static/media/Screenshot (36).png": "/Mina-Portfolio/static/media/Screenshot (36).1574cd8a6085638fa0d4.png",
     "static/media/Screenshot (47).png": "/Mina-Portfolio/static/media/Screenshot (47).8c1fe7cab4a5d0c6b32f.png",
+    "static/media/capture1.PNG": "/Mina-Portfolio/static/media/capture1.a848fc5b69557b433d97.PNG",
     "static/media/Screenshot (54).png": "/Mina-Portfolio/static/media/Screenshot (54).20ad51faad34dd16211f.png",
     "static/media/Screenshot (59).png": "/Mina-Portfolio/static/media/Screenshot (59).33f9d7c8088cb29ab91e.png",
+    "static/media/Screenshot (5).PNG": "/Mina-Portfolio/static/media/Screenshot (5).095eddd9c8e63ba00550.PNG",
     "static/media/Screenshot (13).png": "/Mina-Portfolio/static/media/Screenshot (13).93bdbaaefb78cac71279.png",
     "static/media/Screenshot (14).png": "/Mina-Portfolio/static/media/Screenshot (14).ad09682ee2b70195bacc.png",
     "static/media/Screenshot (11).png": "/Mina-Portfolio/static/media/Screenshot (11).3756d14d716c9aaf95eb.png",
     "static/media/Screenshot (67).png": "/Mina-Portfolio/static/media/Screenshot (67).c1258b17a71f12468840.png",
+    "static/media/capture5.PNG": "/Mina-Portfolio/static/media/capture5.1edbf55c3ffd09b8aec2.PNG",
     "static/media/Screenshot (121).png": "/Mina-Portfolio/static/media/Screenshot (121).ad717f32a508224afb54.png",
     "static/media/Screenshot (6).png": "/Mina-Portfolio/static/media/Screenshot (6).ebe69ee6694228fc6635.png",
     "static/media/Screenshot (119).png": "/Mina-Portfolio/static/media/Screenshot (119).35ee9ac04e151bd49e86.png",
@@ -31,6 +34,8 @@
     "static/media/Screenshot (56).png": "/Mina-Portfolio/static/media/Screenshot (56).09917b8fa88da35d19f5.png",
     "static/media/Screenshot (51).png": "/Mina-Portfolio/static/media/Screenshot (51).bd03a8ea728faae386c8.png",
     "static/media/fa-solid-900.ttf": "/Mina-Portfolio/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
+    "static/media/Screenshot (1).PNG": "/Mina-Portfolio/static/media/Screenshot (1).71d01d69be930a22759a.PNG",
+    "static/media/capture3.PNG": "/Mina-Portfolio/static/media/capture3.046913000c0a8ce2caf4.PNG",
     "static/media/Screenshot (2).png": "/Mina-Portfolio/static/media/Screenshot (2).ee81781225f32d56bb3f.png",
     "static/media/Screenshot (12).png": "/Mina-Portfolio/static/media/Screenshot (12).4d5327adfe5b66891385.png",
     "static/media/Screenshot (63).png": "/Mina-Portfolio/static/media/Screenshot (63).ada1cc4ffe6288abbf85.png",
@@ -50,9 +55,14 @@
     "static/media/fa-solid-900.woff2": "/Mina-Portfolio/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
     "static/media/Screenshot (64).png": "/Mina-Portfolio/static/media/Screenshot (64).ef89deba5e7c469ed4e1.png",
     "static/media/Screenshot (9).png": "/Mina-Portfolio/static/media/Screenshot (9).c799acfee7bf2e6b8796.png",
+    "static/media/capture2.PNG": "/Mina-Portfolio/static/media/capture2.be7a052a84fafb9c2216.PNG",
+    "static/media/capture4.PNG": "/Mina-Portfolio/static/media/capture4.e1edab6cfef9d6b06247.PNG",
     "static/media/fa-brands-400.woff2": "/Mina-Portfolio/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
+    "static/media/Screenshot (3).PNG": "/Mina-Portfolio/static/media/Screenshot (3).bb37d99d532028593c24.PNG",
+    "static/media/Screenshot (2).PNG": "/Mina-Portfolio/static/media/Screenshot (2).12e467dc524e363a3b9c.PNG",
     "static/media/Screenshot (44).png": "/Mina-Portfolio/static/media/Screenshot (44).5719f907106cbdf6d93b.png",
     "static/media/Screenshot (77).png": "/Mina-Portfolio/static/media/Screenshot (77).e97e0ae8e085157b7c0f.png",
+    "static/media/Screenshot (4).PNG": "/Mina-Portfolio/static/media/Screenshot (4).445b8d00975421d18220.PNG",
     "static/media/Screenshot (73).png": "/Mina-Portfolio/static/media/Screenshot (73).5d4d6bb53a23fdfbaa28.png",
     "static/media/Screenshot (72).png": "/Mina-Portfolio/static/media/Screenshot (72).3bf9a255722703d409c0.png",
     "static/media/Screenshot (74).png": "/Mina-Portfolio/static/media/Screenshot (74).18414551e66cc2a28f8e.png",
@@ -110,11 +120,11 @@
     "static/media/slick.woff": "/Mina-Portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Mina-Portfolio/index.html",
     "main.8943d0c5.css.map": "/Mina-Portfolio/static/css/main.8943d0c5.css.map",
-    "main.bebc8367.js.map": "/Mina-Portfolio/static/js/main.bebc8367.js.map",
+    "main.d0c426dd.js.map": "/Mina-Portfolio/static/js/main.d0c426dd.js.map",
     "453.a8e45fc7.chunk.js.map": "/Mina-Portfolio/static/js/453.a8e45fc7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8943d0c5.css",
-    "static/js/main.bebc8367.js"
+    "static/js/main.d0c426dd.js"
   ]
 }
