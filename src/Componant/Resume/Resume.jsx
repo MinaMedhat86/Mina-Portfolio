@@ -9,7 +9,7 @@ export default function Resume() {
   return <>
  <Slide  direction='left' duration={1000}>
   <div className='d-flex justify-content-center'>
-  <a href={resume} className={`${Style.resumeCV} rounded-4  fw-bolder mt-5 py-3 px-5 `} download="MinaMedhatCV.pdf">
+  <a href={resume} className={`${Style.resumeCV} rounded-4  fw-bolder mt-5 py-3 px-5 `} download="MinaMedhat-CV.pdf">
   Download CV
   </a>
   </div>
